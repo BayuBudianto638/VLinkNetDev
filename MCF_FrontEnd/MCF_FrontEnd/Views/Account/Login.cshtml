@@ -1,0 +1,62 @@
+﻿@model MCF_FrontEnd.Models.Account.LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="login-panel panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Please Sign In</h3>
+                </div>
+                <div class="panel-body">
+                    <form role="form">
+                        <fieldset>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="User" id="user" name="user" autofocus>
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="Password" id="password" name="password" type="password" value="">
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input name="remember" type="checkbox" value="Remember Me">Remember Me
+                                </label>
+                            </div>
+
+                            <input type="submit" value="Login" class="btn btn-primary" />
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#btnLogin').click(function () {
+        var isAllValid = true;
+        if (user.length == 0) {
+            $('#user').html('<span style="color:red;">Please input user</span>');
+            isAllValid = false;
+        }
+
+        if (password.length == 0) {
+            $('#password').html('<span style="color:red;">Please input password</span>');
+            isAllValid = false;
+        }
+
+        if (isAllValid) {
+            var model = {
+                User: $('#user').val().trim(),
+                Password: $('#password').val().trim()
+            }
+
+            $(this).val('Please wait...');
+        }
+    });
+</script>
+

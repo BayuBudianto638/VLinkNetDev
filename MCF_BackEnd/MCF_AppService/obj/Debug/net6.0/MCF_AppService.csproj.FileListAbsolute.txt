@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\bin\Debug\net6.0\MCF_AppService.deps.json
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\bin\Debug\net6.0\MCF_AppService.dll
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\bin\Debug\net6.0\MCF_AppService.pdb
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.AssemblyInfo.cs
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.dll
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\refint\MCF_AppService.dll
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.pdb
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\ref\MCF_AppService.dll
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\bin\Debug\net6.0\MCF_AppData.dll
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\bin\Debug\net6.0\MCF_AppData.pdb
+C:\Users\User\source\repos\MCF_BackEnd\MCF_AppService\obj\Debug\net6.0\MCF_AppService.csproj.CopyComplete
